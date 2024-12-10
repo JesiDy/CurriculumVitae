@@ -1,0 +1,48 @@
+body{
+    margin: 0%;
+}
+.Contenedor{
+    display: flex;
+    justify-content: right;
+    float: right;
+    color: black;
+}
+.habilidades-uno{
+    color: pink;
+    background-color: white;
+    padding: 10px;
+    margin: 0%;
+    border-radius: 5px;
+}
+.Menu-principal{
+    color: pink;
+    background-color: white;
+    padding: 30px;
+    margin: 0%;
+    border-radius: 5px; 
+}
+.linkedin-uno a{
+    color: white;
+    text-decoration: none;
+
+}
+
+.linkedin-uno a:hover{
+    background-color: blueviolet;
+
+}
+
+.acercade-mi{
+    color: pink;
+    background-color: white;
+    padding: 10px;
+    margin: 0%;
+    border-radius: 5px; 
+    float: none;
+}
+.letra-uno {
+    font-size: 5px;
+    color: gray;
+    text-align: right;
+    margin-top: 10px;
+}
